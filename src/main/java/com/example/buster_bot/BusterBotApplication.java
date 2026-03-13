@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BusterBotApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(BusterBotApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(BusterBotApplication.class, args);
+    }
 
 }
