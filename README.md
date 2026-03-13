@@ -1,4 +1,4 @@
-# Buster Bot
+# Booster Bot
 
 ## Спринт 1: User Story 1 — Случайный комплимент
 
